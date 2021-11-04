@@ -1,0 +1,16 @@
+/* Styles go here */
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap");
+@import url("https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js");
+body{
+    font-family: 'EB Garamond', serif;
+}
+.nav-item:hover{
+	background-color: lightgray;
+}
+#container{
+	border: 1px solid black;
+}
+#spinner{
+	margin-top: 20%;
+}
